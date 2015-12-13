@@ -53,6 +53,19 @@ Purpose: Community of happy and healthy Partners
 Accountabilities:
 - Organizing team events
 
+### Compensation architect - Cassus
+Purpose: Compensation system that attracts the right people.
+
+Domains:
+- Ownership system and Employee/Partner compensation
+
+##### Domain: Ownership system and Employee/Partner compensation
+
+###### Note: Probation time and ownership cliff
+- Probation time is 3 months, when it comes to ownership there is a one year cliff.
+- After probation time, each partner gains access to company credit cards.
+- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
+
 ### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
 
@@ -106,13 +119,6 @@ We use the same [Async governance process as TLC](README.md#policy-async-governa
 ### Policy: Bootcamp single source of truth
 - Bootcamp process template: https://app.asana.com/0/45872219775035/list
 - Welcome to the lab informal document: https://docs.google.com/document/d/1-MZNLsxHXaOlziC_skAsBJCFVnMcms3URl7xqrsdiZ0/edit?usp=sharing
-
-## Domain: Ownership system and Employee/Partner compensation
-
-##### Policy: Probation time and ownership cliff
-- Probation time is 3 months, when it comes to ownership there is a one year cliff.
-- After probation time, each partner gains access to company credit cards.
-- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
 
 ## Domain: Salary system and peer-reviews
 
