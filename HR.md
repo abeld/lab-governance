@@ -56,15 +56,14 @@ Accountabilities:
 ### Compensation architect - Cassus
 Purpose: Compensation system that attracts the right people.
 
+Accountabilities:
+- Explaining ownership and Partner compensation system
+- Proposing changes to the Ownership system
+- Conductng orderly peer-reviews
+
 Domains:
-- Ownership system and Employee/Partner compensation
-
-##### Domain: Ownership system and Employee/Partner compensation
-
-###### Note: Probation time and ownership cliff
-- Probation time is 3 months, when it comes to ownership there is a one year cliff.
-- After probation time, each partner gains access to company credit cards.
-- Peer review should happen at the end of each months of the probation time, which can impact seniorty and glue, so salary increase or decrease could happen as we learn more about a new partner.
+- Employee/Partner compensation
+- Salary system and peer-reviews
 
 ### Employee onboarding handbook editor - Latest hire
 Purpose: Useful employee handbook
